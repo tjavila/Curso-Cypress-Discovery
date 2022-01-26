@@ -1,0 +1,52 @@
+{
+    "signup":{
+        "name": "Tayssa Avila",
+        "cpf": "03761315007",
+        "email": "exemplo@exemplo.com",
+        "whatsapp": "539123456",
+        "address":{
+            "postalcode": "96215420",
+            "street":"Rua das Galeras",
+            "number": "45",
+            "details": "casa da diana",
+            "district": "Parque Marinha",
+            "city_state": "Rio Grande/RS"
+        },
+        "delivery_method": "Moto",
+        "cnh": "foto.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Tayssa Avila",
+        "cpf": "03761315AAA",
+        "email": "exemplo@exemplo.com",
+        "whatsapp": "539123456",
+        "address":{
+            "postalcode": "96215420",
+            "street":"Rua das Galeras",
+            "number": "45",
+            "details": "casa da diana",
+            "district": "Parque Marinha",
+            "city_state": "Rio Grande/RS"
+        },
+        "delivery_method": "Moto",
+        "cnh": "foto.jpg"
+    },
+    "email_inv":{
+        "name": "Tayssa Avila",
+        "cpf": "03761315007",
+        "email": "exemplo.com.br",
+        "whatsapp": "539123456",
+        "address":{
+            "postalcode": "96215420",
+            "street":"Rua das Galeras",
+            "number": "45",
+            "details": "casa da diana",
+            "district": "Parque Marinha",
+            "city_state": "Rio Grande/RS"
+        },
+        "delivery_method": "Moto",
+        "cnh": "foto.jpg"
+    }
+
+}
